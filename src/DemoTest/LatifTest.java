@@ -11,6 +11,7 @@ public class LatifTest {
 		age = 34;
 		
 		System.out.println(name );
+		System.out.println("Day2");
 		
 		
 		
@@ -21,5 +22,8 @@ public class LatifTest {
 		System.out.println(a+b);
 	}
 
-	
+	public static void subtract(int a, int b){
+		System.out.println(a-b);
+		String name = "Latif";
+	}
 }
